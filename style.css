@@ -219,9 +219,10 @@ header {
 
 
 
- @media (max-width:1023px){
+  
    header{
      padding: 12px 20px;
+     font-size: 5px;
    }
    .nav{
       padding-left: 10px;
